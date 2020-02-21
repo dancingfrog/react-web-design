@@ -9,14 +9,16 @@
   "dependencies": {
     "axios": "^0.17.1",
     "babel-standalone": "^6.26.0",
-    "create-react-class": "^15.6.2",
-    "date-and-time": "^0.6.1",
-    "react": "^16.2.0",
-    "react-aria-menubutton": "^5.1.0",
-    "react-dom": "^16.2.0",
-    "react-transition-group": "^2.2.1"
+    "create-react-class": "^15.6.3",
+    "date-and-time": "^0.6.3",
+    "react": "^16.8",
+    "react-dom": "^16.8",
+    "react-transition-group": "^2.7"
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-hooks": "^1.6.0",
     "prettier": "1.10.2"
   }
 }
